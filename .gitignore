@@ -1,0 +1,14 @@
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.env
+frontend/.env.local
+
+# Java
+backend/target/
+backend/.idea/
+backend/.env
+*.log
+
+# OS
+.DS_Store
